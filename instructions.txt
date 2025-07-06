@@ -1,0 +1,15 @@
+How to use:
+
+1. Save the scritp:
+
+curl -o setup_zsh.sh https://raw.githubusercontent.com/your-repo/setup_zsh.sh
+# Or save it manually as setup_zsh.sh
+
+2. Make it executeable:
+
+chmod +x setup_zsh.sh
+
+3. Run the script
+
+./setup_zsh.sh
+
