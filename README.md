@@ -1,6 +1,3 @@
-import os
-from weasyprint import HTML
-
 This repository contains a performance-optimized Zsh configuration designed for Pop!_OS and Debian-based distributions. The environment utilizes Oh My Zsh and Powerlevel10k to provide a responsive, feature-rich command-line interface.
 
 ## System Features
